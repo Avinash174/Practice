@@ -6,7 +6,15 @@ class Loading extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      
+      appBar: AppBar(
+        title: const Text('Loading'),
+      ),
+      body: Column(
+        children: [
+          
+          const Text('data'),
+        ],
+      ),
     );
   }
 }
