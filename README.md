@@ -1,7 +1,7 @@
 # Practice
 
 
-A new Flutter project.
+A New Flutter App
 
 ## Getting Started
 
